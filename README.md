@@ -18,5 +18,6 @@
 
 ## Projeto 6 - Previsão de qual o preço médio do produto?
 
-## Projeto 7 - 
+## Projeto 7 - Onde a empresa concentra seus esforços para aumentar a venda?
 
+## Projeto 8 
