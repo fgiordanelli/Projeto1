@@ -12,6 +12,6 @@
 ## Projeto 3 - O paciente tem diabte?
 
 
-## Projeto4 - Quais passageiros irão sobreviver no Titanic?
+## Projeto 4 - Quais passageiros irão sobreviver no Titanic?
 
 
