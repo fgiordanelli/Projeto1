@@ -32,6 +32,6 @@
 
 ## Projeto 8 - Clusterizar tipos de flor
 
-<img src=https://editor.analyticsvidhya.com/uploads/20733iris.png width="300" height="200"/>
+<img src=https://editor.analyticsvidhya.com/uploads/20733iris.png width="500" height="200"/>
 
 
