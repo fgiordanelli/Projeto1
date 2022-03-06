@@ -20,4 +20,4 @@
 
 ## Projeto 7 - Onde a empresa concentra seus esforços para aumentar a venda?
 
-## Projeto 8 
+## Projeto 8 - Clusterizar tipos de flor
