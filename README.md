@@ -16,4 +16,7 @@
 
 ## Projeto 5 - O prisioneiro terá pena de morte?
 
+## Projeto 6 - Previsão de qual o preço médio do produto?
+
+## Projeto 7 - 
 
